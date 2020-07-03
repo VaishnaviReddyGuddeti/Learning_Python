@@ -1,0 +1,3 @@
+num1 = 26
+num2 = 21
+sub = num1 - num2
